@@ -17,7 +17,7 @@
 
 // 플레이어 및 게임 관련 
 int Player_X=Player_X_init, Player_Y=Player_Y_init, Player_HP=Player_HP_init, Player_Score=0, Player_Damage, Player_Damage_Count = 0;
-int Map_Score = 0, Map_Turn = 2, Map_Exit = 0;
+int Map_Score = 0, Map_Turn = 0, Map_Exit = 0;
 int End = 0, Board_Message = 0;
 
 // 0 빈공간 // 1 벽 // 2 점수 // 3 탈출구 // 4 플레이어 // 5 장애물 // 
