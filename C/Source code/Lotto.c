@@ -1,4 +1,4 @@
-// date created 21.9.2
+// date created 22.9.2
 
 #include <stdio.h>
 #include <stdlib.h>
