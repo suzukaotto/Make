@@ -1,3 +1,5 @@
+// date created 22.4.28
+
 #include <stdio.h>
 #include <conio.h>
 
