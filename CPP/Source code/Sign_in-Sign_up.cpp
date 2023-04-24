@@ -1,9 +1,8 @@
 #include <iostream>
-#include <cstring>
 #include <string>
+#include <ctime>
 #include <conio.h>
 #include <windows.h>
-#include <time.h>
 using namespace std;
 
 #define MAX_LEN 10001
@@ -200,6 +199,12 @@ void NewAcc()
 	system("cls");
 	
 	cout<<"[ 회원가입 ]"<<endl<<endl;
+	
+	if(accNum==MAX_ACC)
+	{
+		cout<<"계정 생성 횟수 한도를 초과하였습니다.";
+		return;
+	}
 	
 	cout<<"사용할 아이디(4~"<<ID_LEN-1<<"): "; cin>>id;
 	
