@@ -1,6 +1,6 @@
 /*
 	* Bangking System ( 열혈 C++ 51p ) 
-	* Made by szukaotto 노마십가 << 쩔죠?
+	* Made by szukaotto 노마십가
 */ 
 
 /*
