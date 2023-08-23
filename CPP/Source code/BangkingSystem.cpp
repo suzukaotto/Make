@@ -317,8 +317,7 @@ void ProgramExit(void)
 		{
 			cout<<static_cast<char>(exit_code)<<endl<<endl; 
 			
-			cout<<"프로그램을 종료합니다."<<endl<<endl;
-			cout<<"ⓒszukaotto 노마십가"<<endl;
+			cout<<"프로그램을 마칩니다."<<endl<<endl;
 			cout<<"열혈 C++ 51p '은행계좌 관리 프로그램'"<<endl;
 			
 			for(int i=3; i>0;)
