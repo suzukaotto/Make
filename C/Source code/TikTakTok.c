@@ -170,9 +170,7 @@ int check_win() { // 승리 여부 체크
 
 void pg_exit() {
 	printf("\n\n");
-	printf(" 프로그램을 종료합니다.\n");
-	printf(" ⓒszukaotto 노마십가\n");
-	printf(" 틱 택 톡\n\n ");
+	printf(" 프로그램을 마칩니다.\n");
 	
 	system("pause");
 	
