@@ -1,6 +1,7 @@
 // date created 22.4.28
 
 #include <stdio.h>
+#include <stdlib.h>
 #include <conio.h>
 
 int main(void){
@@ -16,8 +17,7 @@ int main(void){
 			key=getch();
 			if(key==3) {
 				printf("\n\n");
-				printf("프로그램을 종료합니다. \n");
-				printf("ⓒszukaotto 노마십가\n\n");
+				printf("프로그램을 마칩니다. \n");
 				system("pause"); 
 				
 				return 0;
