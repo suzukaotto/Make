@@ -592,8 +592,7 @@ void ProgramExit()
 			{
 				system("cls");
 				
-				cout<<"&& 프로그램을 종료합니다. &&"<<endl<<endl;
-				cout<<"ⓒszukaotto 노마십가"<<endl;
+				cout<<"&& 프로그램을 마칩니다. &&"<<endl<<endl;
 				cout<<"회원가입/로그인 구현 프로그램"<<endl<<endl;
 				
 				cout<<i<<"초 후 자동 종료됩니다 . . . ";
