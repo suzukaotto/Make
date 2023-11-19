@@ -1,15 +1,3 @@
-/*
-	* Bangking System ( 열혈 C++ 51p ) 
-	* Made by szukaotto 노마십가
-*/ 
-
-/*
-	메모장
-	2304132157 | 기본적인 뼈대와 프로그램 종료 구현 완료. '계좌개설, 입금, 출금, 잔액조회'만 만들면 완성
-	2304142006 | 야호 다 했다
-	230415 | 최최종 완성. 좀 더 깔끔하게
-*/
-
 #include <iostream>
 #include <string>
 #include <conio.h>
