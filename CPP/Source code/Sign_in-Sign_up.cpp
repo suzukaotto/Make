@@ -42,17 +42,7 @@ void AccPrintSingle(int printAccNum);
 void AccPrint();
 
 int main()
-{
-	cout<<"%% 로그인/회원가입 구현 프로그램 %%"<<endl<<endl<<endl<<endl;
-	cout<<"제목 그대로 입니다."<<endl;
-	cout<<"로그인과 회원가입을 구현해본 프로그램 입니다."<<endl<<endl;
-	cout<<"메뉴 창에서 Ctrl+C 키를 누르면 바로 종료하실 수 있습니다."<<endl;
-	cout<<"종료 시 저장한 데이터가 모두 영구삭제 된다는 점 유의하십시오."<<endl<<endl;
-	cout<<"5번 키를 눌르면 현재 저장되어있는 모든 계정들을 볼 수 있습니다."<<endl<<endl<<endl<<endl;
-	cout<<"ⓒszukaotto 노마십가"<<endl<<endl;
-	
-	system("pause");
-	
+{	
 	int key;
 	srand(time(NULL));
 
